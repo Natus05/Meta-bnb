@@ -6,7 +6,7 @@ function Navbar() {
         
 <nav class="bg-white">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
-  <a href="https://flowbite.com/" class="flex items-center">
+  <a href="https://" class="flex items-center">
       <img src="./images/logo.png" class="mr-3 h-6 sm:h-9" alt="meta-bnb Logo" />
   </a>
   <div class="flex md:order-2">
@@ -19,16 +19,16 @@ function Navbar() {
   <div class="hidden justify-between items-center w-full md:flex md:w-auto md:order-1" id="navbar-cta">
     <ul class="flex flex-col p-4 mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 hover:text-blue gap-[48px]">
       <li>
-        <a href="#" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]" aria-current="page">Home</a>
+        <a href="#a" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]" aria-current="page">Home</a>
       </li>
       <li>
-        <a href="#" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">Place to stay</a>
+        <a href="#a" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">Place to stay</a>
       </li>
       <li>
-        <a href="#" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">NFTs</a>
+        <a href="#a" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">NFTs</a>
       </li>
       <li>
-        <a href="#" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">Community</a>
+        <a href="#a" class="block py-2 pr-4 pl-3 text-[#434343] rounded md:p-0 font-[400] text-[20px] leading-[25px] hover:text-[#A02279]">Community</a>
       </li>
     </ul>
   </div>

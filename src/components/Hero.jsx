@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <div className='grid grid-rows-2 md:grid-cols-2 gap-[0px] lg:gap-[99px] mt-[33px] mx-[20px] md:mx-[90px]'>
+    <div className='flex justify-center grid grid-rows-2 lg:grid-cols-2 gap-[0px] lg:gap-[99px] mt-[33px] mx-auto lg:mx-[90px]'>
         <div className='w-[320px] lg:w-[646px] p-0 gap-[15px] lg:gap-[48px] flex flex-col items-start'>
           <p className='font-[700] text-[20px] lg:text-[56px] lg:leading-[78.4px] text-[#434343]'>Rent a <span className='text-[#A02279]'>Place</span> away from <span className='text-[#A02279]'>Home</span> in the <span className='text-[#A02279]'>Metaverse</span></p>
           <p className='text-[#434343] font-[400] text-[12px] lg:text-[24px] lg:leading-[35px]'>we provide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to reality at your comfort zone</p>
